@@ -1,10 +1,19 @@
 {
+  "dependencies": {
+    "@react-native/metro-config": "*",
+    "@testing-library/jest-native": "*",
+    "@testing-library/react-native": "*",
+    "metro-config": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*"
+  },
   "name": "mobile-e2e",
-  "version": "0.0.1",
-  "private": true,
   "nx": {
     "implicitDependencies": [
       "mobile"
     ]
-  }
+  },
+  "private": true,
+  "version": "0.0.1"
 }

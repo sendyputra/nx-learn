@@ -4,5 +4,14 @@
   "private": true,
   "nx": {
     "name": "mobile"
+  },
+  "dependencies": {
+    "@react-native/metro-config": "*",
+    "@testing-library/jest-native": "*",
+    "@testing-library/react-native": "*",
+    "metro-config": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-svg": "*"
   }
 }

@@ -1,0 +1,13 @@
+--- a/apps/mobile-e2e/package.json
++++ b/apps/mobile-e2e/package.json
+@@ ...existing code...
++  "dependencies": {
++    "@react-native/metro-config": "*",
++    "@testing-library/jest-native": "*",
++    "@testing-library/react-native": "*",
++    "metro-config": "*",
++    "react": "*",
++    "react-native": "*",
++    "react-native-svg": "*"
++  },
+...existing code...
