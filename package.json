@@ -69,6 +69,7 @@
     "vitest": "^3.0.0"
   },
   "workspaces": [
-    "apps/*"
+    "apps/*",
+    "libs/shared-ui-layout"
   ]
 }
